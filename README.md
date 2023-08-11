@@ -1,2 +1,0 @@
-# Gitoff
-learning git
